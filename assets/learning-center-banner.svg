@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#05070d"/><stop offset="1" stop-color="#0c1530"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g opacity="0.35" stroke="#1b2a4d" stroke-width="1"><path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200M120 0v630M240 0v630M360 0v630M480 0v630M600 0v630M720 0v630M840 0v630M960 0v630M1080 0v630"/></g>
+  <circle cx="960" cy="170" r="84" fill="none" stroke="#63d2ff" stroke-width="3" opacity="0.7"/>
+  <circle cx="960" cy="170" r="14" fill="#63d2ff" opacity="0.9"/>
+  <path d="M820 420 C900 310 1010 270 1120 210" fill="none" stroke="#ffbc42" stroke-width="4" opacity="0.9"/>
+  <text x="80" y="180" fill="#8fe9ff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Planetary Defense</text>
+  <text x="80" y="250" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="900">Learning Center</text>
+  <text x="80" y="315" fill="#d7e3ff" font-family="Segoe UI, Arial, sans-serif" font-size="30">TESS · Public Education · Preparedness · Mission Support</text>
+  <text x="80" y="520" fill="#91a8d6" font-family="Segoe UI, Arial, sans-serif" font-size="24">Planetary Defense Foundation</text>
+</svg>
