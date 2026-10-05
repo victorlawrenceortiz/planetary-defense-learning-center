@@ -13,6 +13,21 @@ This repository contains public-safe guides that explain planetary defense, TESS
 - [Asteroid Impact Preparedness](docs/asteroid-impact-preparedness.md)
 - [Sources](docs/sources.md)
 
+
+
+## Templates
+
+- [Family Emergency Plan Template](templates/family-emergency-plan-template.md)
+- [Emergency Contact Sheet Template](templates/emergency-contact-sheet-template.md)
+- [Go-Bag Checklist](templates/go-bag-checklist.md)
+- [Public Observation Log Template](templates/public-observation-log-template.md)
+- [Source Verification Checklist](templates/source-verification-checklist.md)
+
+## Glossary
+
+- [Planetary Defense Glossary](glossary/planetary-defense-glossary.md)
+- [Near-Earth Object Terms](glossary/near-earth-object-terms.md)
+
 ## Public-safety boundary
 
 These documents are educational and mission-support material. They are not official government emergency alerts or emergency orders. In a real emergency, follow local emergency management, national alerting systems, NASA/JPL, IAWN, and other authorized public agencies.
