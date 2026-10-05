@@ -1,0 +1,21 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python/build
+__pycache__/
+*.pyc
+.env
+*.env
+node_modules/
+dist/
+build/
+
+# Secrets never belong in this public repo
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
