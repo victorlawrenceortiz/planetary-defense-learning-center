@@ -1,0 +1,64 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3296 >>
+stream
+BT /F1 9 Tf 54 28 Td (Planetary Defense Foundation - TESS Learning Center) Tj ET
+BT /F2 22 Tf 54 738.0 Td (What Is Planetary Defense?) Tj ET
+BT /F2 18 Tf 54 704.0 Td (What Is Planetary Defense?) Tj ET
+BT /F1 10.8 Tf 54 670.0 Td (Planetary defense is the practical work of finding asteroids and comets near Earth,) Tj ET
+BT /F1 10.8 Tf 54 656.0 Td (calculating where they are going, communicating risk clearly, and preparing response) Tj ET
+BT /F1 10.8 Tf 54 642.0 Td (options before a real threat becomes urgent.) Tj ET
+BT /F2 14 Tf 54 617.0 Td (The simple definition) Tj ET
+BT /F1 10.8 Tf 54 590.0 Td (Planetary defense protects Earth from natural impact hazards. It combines sky surveys,) Tj ET
+BT /F1 10.8 Tf 54 576.0 Td (observatories, orbital calculations, spacecraft engineering, public communication, and) Tj ET
+BT /F1 10.8 Tf 54 562.0 Td (emergency planning.) Tj ET
+BT /F1 10.8 Tf 54 541.0 Td (The goal is not fear. The goal is time: time to confirm the science, time to warn) Tj ET
+BT /F1 10.8 Tf 54 527.0 Td (correctly, and time to act if action is ever needed.) Tj ET
+BT /F2 14 Tf 54 502.0 Td (Close approach does not mean impact) Tj ET
+BT /F1 10.8 Tf 54 475.0 Td (Most near-Earth object passes are routine scientific events. Risk depends on size,) Tj ET
+BT /F1 10.8 Tf 54 461.0 Td (distance, speed, uncertainty, and probability - not just whether an object appears in a) Tj ET
+BT /F1 10.8 Tf 54 447.0 Td (close-approach list.) Tj ET
+BT /F2 14 Tf 54 422.0 Td (How planetary defense works) Tj ET
+BT /F1 10.5 Tf 66 395.0 Td (? 1. **Discover** - survey telescopes and observers detect a moving object against the) Tj ET
+BT /F1 10.5 Tf 66 381.0 Td (background stars.) Tj ET
+BT /F1 10.5 Tf 66 367.0 Td (? 2. **Follow up** - additional observations reduce uncertainty and help confirm that the) Tj ET
+BT /F1 10.5 Tf 66 353.0 Td (object is real.) Tj ET
+BT /F1 10.5 Tf 66 339.0 Td (? 3. **Refine the orbit** - scientists calculate the object's path and compare future) Tj ET
+BT /F1 10.5 Tf 66 325.0 Td (close approaches with Earth.) Tj ET
+BT /F1 10.5 Tf 66 311.0 Td (? 4. **Assess risk** - distance, size, velocity, and probability determine whether the) Tj ET
+BT /F1 10.5 Tf 66 297.0 Td (event is routine or needs attention.) Tj ET
+BT /F1 10.5 Tf 66 283.0 Td (? 5. **Communicate clearly** - public updates should be sourced, calm, and separated from) Tj ET
+BT /F1 10.5 Tf 66 269.0 Td (official emergency instructions.) Tj ET
+BT /F1 10.5 Tf 66 255.0 Td (? 6. **Prepare options** - if evidence warrants it, options can include more tracking,) Tj ET
+BT /F1 10.5 Tf 66 241.0 Td (spacecraft missions, deflection studies, or civil preparedness.) Tj ET
+BT /F2 14 Tf 54 216.0 Td (What TESS supports) Tj ET
+BT /F1 10.5 Tf 66 189.0 Td (? Public education and mission dashboards.) Tj ET
+BT /F1 10.5 Tf 66 175.0 Td (? Observatory readiness and practical sky-monitoring workflows.) Tj ET
+BT /F1 10.5 Tf 66 161.0 Td (? Responsible communication that points back to authoritative sources.) Tj ET
+BT /F2 14 Tf 54 136.0 Td (What this page is not) Tj ET
+BT /F1 10.5 Tf 66 109.0 Td (? It is not an official government alert.) Tj ET
+BT /F1 10.5 Tf 66 95.0 Td (? It is not an impact prediction.) Tj ET
+BT /F1 10.5 Tf 66 81.0 Td (? It does not replace NASA/JPL, IAWN, or local emergency-management guidance.) Tj ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000354 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+3702
+%%EOF

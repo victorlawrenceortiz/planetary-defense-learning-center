@@ -15,6 +15,21 @@ This repository contains public-safe guides that explain planetary defense, TESS
 
 
 
+
+
+## PDF Downloads
+
+Printable PDF versions are available in [`pdfs/`](pdfs/):
+
+- [What Is Planetary Defense?](pdfs/what-is-planetary-defense.pdf)
+- [How TESS Detects Threats](pdfs/how-tess-detects-threats.pdf)
+- [How Civilians Can Help](pdfs/how-civilians-can-help.pdf)
+- [Emergency Communication Policy](pdfs/emergency-communication-policy.pdf)
+- [Asteroid Impact Preparedness](pdfs/asteroid-impact-preparedness.pdf)
+- [Family Emergency Plan Template](pdfs/family-emergency-plan-template.pdf)
+- [Go-Bag Checklist](pdfs/go-bag-checklist.pdf)
+- [Source Verification Checklist](pdfs/source-verification-checklist.pdf)
+
 ## Templates
 
 - [Family Emergency Plan Template](templates/family-emergency-plan-template.md)
