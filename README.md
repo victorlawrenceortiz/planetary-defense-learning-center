@@ -17,6 +17,15 @@ This repository contains public-safe guides that explain planetary defense, TESS
 
 
 
+
+
+## Diagrams
+
+- [Planetary Defense Workflow](diagrams/planetary-defense-workflow.svg)
+- [TESS Public Data Pipeline](diagrams/tess-data-pipeline.svg)
+- [Source Verification Flow](diagrams/source-verification-flow.svg)
+- [Close Approach vs. Impact Risk](diagrams/close-approach-vs-impact-risk.svg)
+
 ## PDF Downloads
 
 Printable PDF versions are available in [`pdfs/`](pdfs/):
